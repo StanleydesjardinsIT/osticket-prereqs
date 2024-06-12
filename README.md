@@ -61,6 +61,6 @@ Created a PHP directory on the local hard drive.
 </p>
 <p>
 
-  Intalled C++
+  Installed C++
 </p>
 <br />
